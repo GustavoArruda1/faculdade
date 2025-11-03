@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // Criando novo tipo de dados
 struct Funcionario {
     int registro;
@@ -35,3 +34,4 @@ int main() {
     exibir_vetFunc(5);    // Mostra os funcionários na tela
     return 0;
 }
+
